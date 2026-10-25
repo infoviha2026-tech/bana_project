@@ -16,7 +16,3 @@ services:
         sync: false
       - key: SUPER_ADMIN_PASSWORD
         sync: false
-    disk:
-      name: bana-data
-      mountPath: /data
-      sizeGB: 1
