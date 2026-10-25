@@ -16,3 +16,5 @@ services:
         sync: false
       - key: SUPER_ADMIN_PASSWORD
         sync: false
+      - key: SEED_DEMO
+        value: "true"
